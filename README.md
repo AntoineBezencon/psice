@@ -1,4 +1,4 @@
-# Paprika *(nom provisoire)*
+# Psice *(nom provisoire)*
 
 Simulateur de circuits électroniques inspiré de LTspice, avec une interface moderne
 et ngspice comme moteur de simulation.
