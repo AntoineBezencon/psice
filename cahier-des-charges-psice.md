@@ -12,10 +12,10 @@ Psice est un simulateur de circuits électroniques destiné aux étudiants de 1r
 
 ## 2. Objectifs
 
-- Simuler un premier circuit (diviseur, RC) en moins de 10 minutes, sans formation préalable.
-- Lire la tension d'un fil ou le courant d'un composant d'un simple clic (sonde interactive).
-- Rendre visible le comportement du circuit : animation du sens et de l'intensité du courant, courbes.
-- Livrer une application Windows lançable d'un double-clic, sans installation.
+- Accessibilité et prise en main : Garantir une interface intuitive permettant à un utilisateur novice de simuler rapidement un circuit élémentaire (ex. diviseur de tension, circuit RC), sans formation préalable.
+- Acquisition de données : Intégrer des sondes interactives permettant la mesure en temps réel de la tension aux nœuds et du courant traversant les composants.
+- Visualisation dynamique: Modéliser graphiquement le comportement du circuit via des tracés de courbes et une animation ccontinue illustrant le sens et l'intensité du courant. 
+- Déploiment et portabilité: Fournir une application Windows autonome (portable), excécutable directement sans processus d'installation.
 
 ## 3. Périmètre
 
